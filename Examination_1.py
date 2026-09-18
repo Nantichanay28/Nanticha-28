@@ -6,4 +6,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-c = float(input())
+c = float(input("Enter temperature in celsius:")
+f =(c * 1.8) +32
+print(f"Temperature in fahrenhert : {f}")
